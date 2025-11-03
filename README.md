@@ -1,6 +1,6 @@
 # Supply Chain Optimization Case Study
 
-## 📦 Project Overview
+📦 Project Overview
 This project analyzes a retail company’s supply chain operations to identify opportunities for efficiency improvement, cost reduction, and enhanced delivery performance. The dataset includes detailed information on supply-to-*environment execution* such as sales and quality performance for multiple product categories.
 
 ```5
@@ -8,11 +8,11 @@ This project analyzes a retail company’s supply chain operations to identify o
 - Product-level updates in inventory flow, cost, and profit
 - Return patterns and their impact on profitability
 - Sales performance across customer segments and regions
-``➡️ tools: **Python**, **Pandas**, **Power BI**
+➡️ tools: **Python**, **Pandas**, **Power BI**
 
 ---
 
-## 📊 Dataset
+📊 Dataset
 The dataset contains over **20,000 rows** and **29 columns**, including attributes like:
 - Order and shipment dates
 - Delivery times (days)
@@ -28,7 +28,7 @@ This enables multifaceted analysis of:
 
 ---
 
-## 🔧 Tools & Technologies
+🔧 Tools & Technologies
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
 - **Jupyter Notebook**
 - **Power BI** (dashboard creation)
@@ -37,7 +37,7 @@ This enables multifaceted analysis of:
 
 ---
 
-## 🧠 Project Workflow
+🧠 Project Workflow
 1. **Data Loading & Cleaning**  
    Handle missing values, format dates, and calculate delivery duration.
 2. **Exploratory Data Analysis (EDA)**  
@@ -51,10 +51,42 @@ This enables multifaceted analysis of:
 
 ---
 
-## 📈 Key Insights
+📈 Key Insights
 
 _(Full insights available in the notebook & dashboard)_
 
 ---
 
-## 🗂 Repository Structure
+🗂 Repository Structure
+supply-chain-optimization-case-study/
+├── data/
+│   └── supply_chain_data.csv
+├── notebooks/
+│   ├── 01_data_cleaning.ipynb
+│   ├── 02_exploratory_analysis.ipynb
+├── dashboard/
+│   └── supply_chain_dashboard.pbix
+├── README.md
+└── requirements.txt
+
+---
+
+🚀 How to Run
+```bash
+# Install dependencies
+pip install -r requirements.txt
+
+# Launch notebook
+jupyter notebook
+
+
+📬 Contact
+If you have questions or would like to collaborate, you can reach me at:
+Heather West
+📧 heather@westgd.com
+🔗 LinkedIn: www.linkedin.com/in/heather-weston-21a6a92b9
+
+📄 License
+This project is open-source and available under the MIT License.
+
+
