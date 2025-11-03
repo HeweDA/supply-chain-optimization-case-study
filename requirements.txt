@@ -1,0 +1,7 @@
+pandas
+numpy
+```<Filed to fulfill
+matplotlib
+seaborn
+jupyter
+openpyxl   # if you work with Excel files
